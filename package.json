@@ -1,0 +1,10 @@
+{
+  "name": "javascript-styled-typescript",
+  "version": "1.0.0",
+  "description": "TypeScript with a JavaScript coding style.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/k-taro56/javascript-styled-typescript"
+  },
+  "license": "MIT"
+}
