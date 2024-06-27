@@ -6,5 +6,8 @@
     "type": "git",
     "url": "https://github.com/k-taro56/javascript-styled-typescript"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.5.2"
+  }
 }
